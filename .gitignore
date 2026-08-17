@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+
+.vscode/
+
+__pycache__/
+*.pyc
+
+faiss_store_openai.pkl
